@@ -1,4 +1,4 @@
-# Money-management-for-noobs-app
+# UnBrokie
 
 AI-assisted Flutter frontend MVP for the finance management system.
 Focused on:
