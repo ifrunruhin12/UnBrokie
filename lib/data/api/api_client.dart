@@ -23,7 +23,7 @@ import 'package:finance_app/core/error/app_exception.dart';
 /// [ApiClient] does NOT own any caching or SWR logic — that belongs to
 /// repositories.
 class ApiClient {
-  static const _baseUrl = 'http://192.168.1.104:8080/api/v1';
+  static const _baseUrl = 'https://unbrokie-backend-production.up.railway.app/api/v1';
 
   /// Storage key used to persist the JWT.
   static const _tokenKey = 'auth_token';
